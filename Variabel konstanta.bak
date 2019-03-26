@@ -1,0 +1,13 @@
+#include <iostream.h>
+#include <conio.h>
+#define phi 3,14
+#define teks "Contoh deklarasi konstanta"
+
+{
+main();
+cout<<phie<<"\n";
+cout<<teks<<"\n";
+getch();
+}
+
+//Deklarasi konstanta
